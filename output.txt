@@ -1,0 +1,10 @@
+Sphere = 4.189, Prism = 24.000
+Sphere = 33.510, Prism = 60.000
+Sphere = 113.097, Prism = 120.000
+Sphere = 268.083, Prism = 210.000
+Sphere = 523.599, Prism = 336.000
+Sphere = 904.779, Prism = 504.000
+Sphere = 7.238, Prism = 26.691
+Sphere = 38.792, Prism = 64.821
+Sphere = 124.788, Prism = 129.642
+Sphere = 288.696, Prism = 220.881
